@@ -1,2 +1,2 @@
 # codeforces-problems
-This is to the codeforces problems in the contests 
+This is to the codeforces problems
