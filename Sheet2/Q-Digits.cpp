@@ -6,7 +6,7 @@ int main(){
     long long t;
     cin>>t;
     while(t--)
-    {
+     {
         long long n;
         cin>>n;
         if(n<0) continue;
